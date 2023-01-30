@@ -1,0 +1,106 @@
+.main{
+    display: flex;
+    margin-left: 0px;
+    
+}
+#menu{
+    top: 34px;
+    margin-top: 20px;
+
+}
+#logo{
+    width: 142px;
+height: 30px;
+margin-top: 20px;
+  
+   
+}
+#search{
+    width: 16px;
+    height: 16px;
+   margin-top: 26px;
+   /* margin-left: 291px; */
+}
+#searchtext{
+    width: 49px;
+height: 21px;
+margin-top: 22px;
+/* margin-left: 321px;} */
+}
+
+#bell{
+    
+    width: 22px;
+    height: 21px;
+    margin-top: 20px;
+    /* margin-left: 1294px; */
+    
+
+}
+#profilepic{
+    width: 44px;
+    height: 44px;
+    margin-top: 11px;
+    /* margin-left: 1368px; */
+}
+
+#johndoe{
+    width: 68px;
+    height: 21px;
+    margin-top: 20px;
+    /* margin-left: 1424px; */
+
+}
+#arrow{
+    width: 18px;
+    height: 16px;
+    margin-top: 26px;
+    /* margin-left: 1507px; */
+
+}
+#a1{
+    margin-left: 1%;
+}
+#a2{
+    margin-left: 1%;
+
+}
+#a3{
+    margin-left: 4%;
+
+}
+#a4{
+    margin-left: 0.3%
+
+}
+#a5{
+    margin-left: 59%;
+}
+#a6{    margin-left: 4%;
+
+}
+#a7{
+    margin-left: 1%;
+
+}
+.img {
+    height: 22px;
+    width: 21px;
+}
+.sidebar {
+    padding-left: 35px;
+    padding-top: 100px;
+    width: 15%;
+    position: fixed;
+    margin-left: -14%;
+    
+}
+.side-item {
+    width: 80%;
+    display: flex;
+}
+
+.side-item p {
+    padding-left: 15px;
+}
+   
